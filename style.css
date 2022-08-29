@@ -75,7 +75,7 @@ body {
     margin-block: var(--size-400);
 }
 
-.card-content > h4 {
+.card-content > h1 {
     color: var(--clr-primary-900);
     font-size: var(--fs-title);
     font-weight: var(--fw-bold);
