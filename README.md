@@ -15,19 +15,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshots
 
-- [Desktop](./screenshot-desktop.png)
-- [Mobile](./screenshot-mobile.png)
+#### Desktop:
+![Desktop Screenshot](https://raw.githubusercontent.com/robmeijer/fem-qr-code-component/main/screenshot-desktop.png "Desktop Screenshot")
+#### Mobile:
+![Mobile Screenshot](https://raw.githubusercontent.com/robmeijer/fem-qr-code-component/main/screenshot-mobile.png "Mobile Screenshot")
 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/robmeijer/fem-qr-code-component)
-<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Live Site URL: [GitHub Pages](https://robmeijer.github.io/fem-qr-code-component)
 
 ## My process
 
